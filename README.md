@@ -25,8 +25,8 @@ This repository contains two Google Colab notebooks that together form the proof
 
 | Notebook | Purpose | What it does |
 |----------|---------|--------------|
-| **`1_multimodal_pipeline.ipynb`** | Feature Extraction Pipeline | Extracts audio, visual, and deep speech features from any video interview |
-| **`2_ravdess_classifier.ipynb`** | Trained Classifier + Demo | Trains a depression signal classifier on RAVDESS and deploys a Gradio web app |
+| **`multimodal_pipeline.ipynb`** | Feature Extraction Pipeline | Extracts audio, visual, and deep speech features from any video interview |
+| **`ravdess_classifier.ipynb`** | Trained Classifier + Demo | Trains a depression signal classifier on RAVDESS and deploys a Gradio web app |
 
 > **Note:** This is a UCL MSc research proof-of-concept, not a clinical diagnostic tool. See [Ethical Considerations](#ethical-considerations).
 
