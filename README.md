@@ -159,7 +159,7 @@ Demonstrates the full multimodal extraction pipeline on a sample video:
 
 **Outputs:** 5 visualisation plots + 4 feature files saved to Google Drive.
 
-### `2_ravdess_classifier.ipynb` — Classifier + Gradio Demo
+### `ravdess_classifier.ipynb` — Classifier + Gradio Demo
 
 Downloads RAVDESS, trains a classifier, and launches a web demo:
 
