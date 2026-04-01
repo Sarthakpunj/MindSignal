@@ -126,15 +126,15 @@ MindSignal/
 ├── README.md                        ← You are here
 ├── LICENSE
 ├── .gitignore
-├── 1_multimodal_pipeline.ipynb  ← Full extraction pipeline (audio + visual + Wav2Vec2)
-│── 2_ravdess_classifier.ipynb   ← Train classifier + Gradio demo app
+├── multimodal_pipeline.ipynb  ← Full extraction pipeline (audio + visual + Wav2Vec2)
+│── ravdess_classifier.ipynb   ← Train classifier + Gradio demo app
 ```
 
 ---
 
 ## Notebooks
 
-### `1_multimodal_pipeline.ipynb` — Feature Extraction Pipeline
+### `multimodal_pipeline.ipynb` — Feature Extraction Pipeline
 
 Demonstrates the full multimodal extraction pipeline on a sample video:
 
