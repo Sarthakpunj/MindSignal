@@ -50,14 +50,8 @@ MindSignal/
 ├── LICENSE
 ├── .gitignore
 ├── SETUP_GUIDE.md
-├── notebooks/
-│   ├── 1_multimodal_pipeline.ipynb
-│   └── 2_ravdess_classifier.ipynb
-├── docs/
-│   ├── MindSignal_Whitepaper.docx
-│   └── MindSignal_BusinessPlan.docx
-└── assets/
-    └── architecture.png
+│── 1_multimodal_pipeline.ipynb
+│── 2_ravdess_classifier.ipynb
 ```
 
 ## Optional: Add Colab Badges
