@@ -126,17 +126,8 @@ MindSignal/
 ├── README.md                        ← You are here
 ├── LICENSE
 ├── .gitignore
-│
-├── notebooks/
-│   ├── 1_multimodal_pipeline.ipynb  ← Full extraction pipeline (audio + visual + Wav2Vec2)
-│   └── 2_ravdess_classifier.ipynb   ← Train classifier + Gradio demo app
-│
-├── docs/
-│   ├── MindSignal_Whitepaper.pdf    ← One-page technical whitepaper
-│   └── MindSignal_BusinessPlan.pdf  ← Full business plan
-│
-└── assets/
-    └── architecture.png             ← System architecture diagram (for README)
+├── 1_multimodal_pipeline.ipynb  ← Full extraction pipeline (audio + visual + Wav2Vec2)
+│── 2_ravdess_classifier.ipynb   ← Train classifier + Gradio demo app
 ```
 
 ---
