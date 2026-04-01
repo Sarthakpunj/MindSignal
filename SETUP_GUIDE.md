@@ -36,8 +36,8 @@ In Google Colab:
 1. Open each notebook
 2. Go to **File → Download → Download .ipynb**
 3. Rename them:
-   - Full pipeline → `1_multimodal_pipeline.ipynb`
-   - RAVDESS classifier → `2_ravdess_classifier.ipynb`
+   - Full pipeline → `multimodal_pipeline.ipynb`
+   - RAVDESS classifier → `ravdess_classifier.ipynb`
 4. Place them in the `notebooks/` folder
 
 ## Final Folder Structure
@@ -50,8 +50,8 @@ MindSignal/
 ├── LICENSE
 ├── .gitignore
 ├── SETUP_GUIDE.md
-│── 1_multimodal_pipeline.ipynb
-│── 2_ravdess_classifier.ipynb
+│── multimodal_pipeline.ipynb
+│── ravdess_classifier.ipynb
 ```
 
 ## Optional: Add Colab Badges
